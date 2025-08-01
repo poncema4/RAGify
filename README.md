@@ -105,3 +105,9 @@ RAGify/
 - **Never share your `.env` file or API keys.**
 
 ---
+
+## Demo
+
+<img width="1480" height="910" alt="image" src="https://github.com/user-attachments/assets/9c311e70-4ab7-4c13-94dd-5abb694917a1" />
+
+---
